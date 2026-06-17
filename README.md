@@ -19,7 +19,7 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,sqlite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,mysql" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,figma" />
 </p>
