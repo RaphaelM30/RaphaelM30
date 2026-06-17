@@ -21,5 +21,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,mysql" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,figma" />
+  <img src="https://skillicons.dev/icons?i=git,figma,vscode" />
 </p>
