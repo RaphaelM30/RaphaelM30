@@ -12,15 +12,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+RaphaelM30!;" />
 </h1>
 
-### 👨‍💻 About Me
-
-I'm a young developer passionate about **software development, game development and web technologies**.  
-I enjoy creating projects, learning new technologies and improving my skills every day. 🚀
-
-Currently working with **Python, JavaScript, C/C++**.
-
-<br>
-
 <br>
 
 <div align="center">
