@@ -11,3 +11,10 @@
 </h1>
 
 ### A young developer passionate about building beautiful, functional projects.
+- 🌱 I’m currently learning **React-Js**
+
+<br>
+
+<a href="">
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  </a>
