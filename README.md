@@ -12,11 +12,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+RaphaelM30!;" />
 </h1>
 
+### 👨‍💻 About Me
+
+I'm a young developer passionate about **software development, game development and web technologies**.  
+I enjoy creating projects, learning new technologies and improving my skills every day. 🚀
+
+Currently working with **Python, JavaScript, C/C++**.
+
 <br>
+
+<br>
+
 <div align="center">
 <a href="https://discord.com/users/901790406210093056">
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
+<a href="https://github.com/RaphaelM30">
+  <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 </div>
 
 ## 🛠️ Languages and Tools
