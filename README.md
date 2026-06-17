@@ -15,6 +15,6 @@
 
 <br>
 
-<a href="">
+<a href="https://discord.com/users/901790406210093056">
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
