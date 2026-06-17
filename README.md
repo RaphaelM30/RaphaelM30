@@ -16,3 +16,8 @@
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" />
   </a>
 </div>
+
+## 🛠️ Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,html,css,js,git,figma" />
+</p>
