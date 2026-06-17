@@ -11,7 +11,7 @@
 </h1>
 
 ### A young developer passionate about building beautiful, functional projects.
-- 🌱 I’m currently learning **React-Js**
+- 🌱 I’m currently learning **Web frameworks**
 
 <br>
 <div align="center">
