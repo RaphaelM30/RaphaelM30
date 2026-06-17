@@ -1,4 +1,4 @@
-## 👋Hi there, I'm Raphaël, a young junior developer 
+# 👋Hi there, I'm Raphaël, a young junior developer 
 
 <div align="center"> 
   <p>Visitor count</p>
